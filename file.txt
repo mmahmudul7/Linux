@@ -1,0 +1,6 @@
+file.txt
+files.txt
+main.txt
+day7_bash_scripting
+hello.sh
+hi.sh
